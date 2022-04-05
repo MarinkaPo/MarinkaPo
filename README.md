@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- ![CodeWars](https://www.codewars.com/users/Marina_P./badges/large) -->
  
-<h3 align="left">📫 Для связи со мной:</h3>
+## 📫 Для связи со мной:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/M_kak_Marinka)
 <!--![![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-damotsov-87479b228/)-->
