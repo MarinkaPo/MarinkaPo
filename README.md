@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## Я Марина и я - Data Scientist
 **Люблю и работаю с:**
  - Предобработкой и анализом данных;
- - ML
- - DL
+ - ML;
+ - DL;
  
 **Подробнее - в моих репозиториях** 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinkaPo)](https://github.com/MarinkaPo/github-readme-stats)
 
 
-![CodeWars](https://www.codewars.com/users/Marina_P./badges/large)
+<--![CodeWars](https://www.codewars.com/users/Marina_P./badges/large)-->
  
 <h3 align="left">📫 Для связи со мной:</h3>
 
@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.polukoshko.marina@gmail.com)
 
 
-### Stack:
+## ⚡ Stack:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-%23150458.svg?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23D00000.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.com)
