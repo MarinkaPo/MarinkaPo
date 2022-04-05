@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  - ML;
  - DL.
  
-**Подробнее - в моих репозиториях** 
+**Подробнее - в моих репозиториях :point_down:** 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinkaPo&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinkaPo)](https://github.com/MarinkaPo/github-readme-stats)
