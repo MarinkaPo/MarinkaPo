@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinkaPo)](https://github.com/MarinkaPo/github-readme-stats)
 
 
-<--![CodeWars](https://www.codewars.com/users/Marina_P./badges/large)-->
+<!-- ![CodeWars](https://www.codewars.com/users/Marina_P./badges/large) -->
  
 <h3 align="left">📫 Для связи со мной:</h3>
 
