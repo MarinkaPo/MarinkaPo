@@ -21,11 +21,12 @@ Here are some ideas to get you started:
  - DL
  
 **Подробнее - в моих репозиториях** 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinkaPo&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinkaPo)](https://github.com/MarinkaPo/github-readme-stats)
 
 
-![CodeWars](https://www.codewars.com/users/Marina P./badges/large)
+![CodeWars](https://www.codewars.com/users/Marina_P./badges/large)
  
 <h3 align="left">📫 Для связи со мной:</h3>
 
