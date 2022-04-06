@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # :raising_hand: Добро пожаловать!
-## Я Марина и я - Data Scientist
+## Я - Марина, Data Scientist :)
 ## :sparkling_heart: :chart_with_downwards_trend: Люблю и работаю с:
  - Предобработкой и анализом данных;
  - ML;
