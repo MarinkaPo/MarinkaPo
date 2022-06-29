@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-1F75FE?style=for-the-badge&logo=NumPy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/matplotlib-F64A46?style=for-the-badge&logo=Matplotlib&logoColor=white)](https://matplotlib.org)
+[![Matplotlib](https://img.shields.io/badge/matplotlib-F64A46?style=for-the-badge&logo=Matplotlib&logoColor=white)]([https://matplotlib.org](https://matplotlib.org/))
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23D00000.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.com)
